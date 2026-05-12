@@ -10,7 +10,7 @@
     1. ✅ Crear un repositorio locál.
     2. ✅ Cambiar la rama `main` a `dev`.
     3. ✅ Crear los carpetas y archivos que necesican.
-3. Averiguar que elementos se necesitan, añadir la estructura.
+3. ✅ Averiguar que elementos se necesitan, añadir la estructura.
 4. Añadir contenido (textos correctos).
 5. Crear CSS classes de contenedores y de elementos que se repiten.
 6. Trabajar con Grid en `layout.css` para hacer `Mobile View` correcto. 
