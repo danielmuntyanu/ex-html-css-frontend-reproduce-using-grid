@@ -8,12 +8,18 @@ h2 {
     font-size: var(--text-xl);
 }
 
+.colors-title-item {
+    font-size: var(--text-base);
+    text-align: center;
+    color: var(--color-text-white);
+}
+
 .color-item {
     font-size: var(--text-base);
     text-align: center;
     color: var(--color-text-white);
+}
 
-    #white {
-        color: var(--color-text-black);
-    }
+#white {
+    color: var(--color-text-black);
 }
