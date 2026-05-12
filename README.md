@@ -12,7 +12,7 @@
     3. ✅ Crear los carpetas y archivos que necesican.
 3. ✅ Averiguar que elementos se necesitan, añadir la estructura.
 4. ✅ Añadir contenido (textos correctos).
-5. Crear CSS classes de contenedores y de elementos que se repiten.
+5. ✅ Crear CSS classes de contenedores y de elementos que se repiten.
 6. Trabajar con Grid en `layout.css` para hacer `Mobile View` correcto. 
 7. Añadir los colores y estilos de contenedores.
 8. Añadir fuentes de `Google Fonts` y trabajar con tipografía.

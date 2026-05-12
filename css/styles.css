@@ -1,0 +1,48 @@
+:root {
+    /* === Colors === */
+    --color-background: #ebe9e9;
+    --color-text-black: #000000;
+    --color-text-white: #ffffff;
+
+    --color-black: #000000;
+    --color-teal: #1abc9c;
+    --color-blue: #3498db;
+    --color-navy: #34495e;
+    --color-lime: #f1c40f;
+    --color-white: #ffffff;
+    --color-purple: #9b59b6;
+    --color-yellow: #ffdc00;
+    --color-olive: #8bc34a;
+    --color-red: #e74c3c;
+    --color-maroon: #d81b60;
+    --color-gray: #7f8c8d;
+    --color-olivedrab: #6b8e23;
+    --color-deep-sky-blue: #00bfff;
+    --color-fuchsia: #ff00ff;
+    --color-green: #008000;
+
+    /* === Layout === */
+    
+    --padding-small: 10px;
+    --padding-medium: 20px;
+    --padding-large: 30px;
+
+    --gap-small: 10px;
+    --gap-medium: 20px;
+    --gap-large: 30px;
+
+    --border-radius: 15px;
+
+    /* === Typography === */
+    
+    --text-xs: 0.75rem;     /* 12px */
+    --text-sm: 0.875rem;    /* 14px */
+    --text-base: 1rem;      /* 16px */
+    --text-lg: 1.125rem;    /* 18px */
+    --text-xl: 1.25rem;     /* 20px */
+    --text-2xl: 1.5rem;     /* 24px */
+    --text-3xl: 1.875rem;   /* 30px */
+    --text-4xl: 2.25rem;    /* 36px */
+    --text-5xl: 3rem;       /* 48px */
+
+}

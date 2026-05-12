@@ -1,0 +1,22 @@
+.main-container {
+    display: grid;
+    gap: var(--gap-medium);
+}
+
+.colors-title-items {
+    background-color: var(--color-black);
+}
+
+.colors-list {
+    display: grid;
+    gap: var(--gap-medium);
+}
+
+.color-item {
+    border-radius: var(--border-radius);
+
+    #white {
+        background-color: var(--color-white);
+    }
+}
+
