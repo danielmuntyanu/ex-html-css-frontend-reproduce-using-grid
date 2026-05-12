@@ -6,10 +6,10 @@
 
 ## Etapas:
 1. ✅ Escribir un plan de proyecto.
-2. Definir y crear una estructura de proyecto.
-    1. Crear un repositorio locál.
-    2. Cambiar la rama `main` a `dev`.
-    3. Crear los carpetas y archivos que necesican.
+2. ✅ Definir y crear una estructura de proyecto.
+    1. ✅ Crear un repositorio locál.
+    2. ✅ Cambiar la rama `main` a `dev`.
+    3. ✅ Crear los carpetas y archivos que necesican.
 3. Averiguar que elementos se necesitan, añadir la estructura.
 4. Añadir contenido (textos correctos).
 5. Crear CSS classes de contenedores y de elementos que se repiten.
