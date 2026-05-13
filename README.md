@@ -17,7 +17,7 @@
 7. ✅ Añadir los colores y estilos de contenedores.
 8. ✅ Añadir fuentes de `Google Fonts` y trabajar con tipografía.
 9. ✅ Hacer `Tablet` y `Desktop` diseño responsive.
-10. Comprobar y corregir todo el sitio web.
+10. ✅ Comprobar y corregir todo el sitio web.
 11. `Merge` la rama `dev` con `main`.
 12. Despliegue a `GitHub Pages`.
 
