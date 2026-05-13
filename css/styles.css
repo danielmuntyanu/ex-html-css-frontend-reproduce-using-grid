@@ -1,25 +1,27 @@
 :root {
     /* === Colors === */
-    --color-background: #ebe9e9;
+    --color-background: #F2F2F2;
     --color-text-black: #000000;
-    --color-text-white: #ffffff;
+    --color-text-white: #FFFFFF;
+    --color-border: #cccccc;
 
+    --color-title-item: #000000;
     --color-black: #000000;
-    --color-teal: #1abc9c;
-    --color-blue: #3498db;
-    --color-navy: #34495e;
-    --color-lime: #f1c40f;
-    --color-white: #ffffff;
-    --color-purple: #9b59b6;
-    --color-yellow: #ffdc00;
-    --color-olive: #8bc34a;
-    --color-red: #e74c3c;
-    --color-maroon: #d81b60;
-    --color-gray: #7f8c8d;
-    --color-olivedrab: #6b8e23;
-    --color-deep-sky-blue: #00bfff;
-    --color-fuchsia: #ff00ff;
-    --color-green: #008000;
+    --color-teal: #377E7F;
+    --color-blue: #1200F5;
+    --color-navy: #04007B;
+    --color-lime: #75FC4C;
+    --color-white: #FFFFFF;
+    --color-purple: #75147C;
+    --color-yellow: #F9FB53;
+    --color-olive: #7C7C25;
+    --color-red: #EA3423;
+    --color-maroon: #75140C;
+    --color-gray: #808080;
+    --color-olivedrab: #738D37;
+    --color-deep-sky-blue: #56BDF9;
+    --color-fuchsia: #EA33F7;
+    --color-green: #377E22;
 
     /* === Layout === */
     
@@ -31,7 +33,7 @@
     --gap-medium: 20px;
     --gap-large: 30px;
 
-    --border-radius: 15px;
+    --border-radius: 10px;
 
     /* === Typography === */
     

@@ -1,6 +1,6 @@
 h1 {
     color: var(--color-text-black);
-    font-size: var(--text-2xl);
+    font-size: var(--text-3xl);
 }
 
 h2 {
@@ -20,6 +20,6 @@ h2 {
     color: var(--color-text-white);
 }
 
-#white {
+#white-item {
     color: var(--color-text-black);
 }

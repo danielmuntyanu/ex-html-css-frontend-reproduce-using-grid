@@ -1,29 +1,22 @@
 /* === MOBILE VIEW === */
 
 body {
-    background-color: var(--color-background)
+    background-color: var(--color-background);
+    padding: var(--padding-large);
 }
 
 
 .main-container {
     display: grid;
-    gap: var(--gap-medium);
-    grid-auto-rows: minmax(100px, auto);
-
-}
-
-.colors-title-item {
-    background-color: var(--color-black);
-    border-radius: var(--border-radius);
-    border: 2px solid var(--color-gray);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    gap: var(--gap-small);
+    grid-auto-rows: minmax(80px, auto);
 }
 
 .colors-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-auto-rows: minmax(100px, auto);
-    gap: var(--gap-medium);
+    grid-auto-rows: minmax(80px, auto);
+    gap: var(--gap-small);
 }
 
 .colors-list > *:last-child {
@@ -31,7 +24,107 @@ body {
 }
 
 .color-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     border-radius: var(--border-radius);
-    border: 2px solid var(--color-gray);
+    border: 1px solid var(--color-border);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+
+
+/* === TABLET VIEW === */
+@media (min-width: 768px) {
+    .colors-list {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    .colors-list > *:last-child {
+        grid-column: span 1 / -1;
+    }
+}
+
+/* === DESKTOP VIEW === */
+@media (min-width: 1024px) {
+    .colors-list {
+        grid-template-columns: repeat(6, 1fr);
+    }
+
+    .colors-list > *:last-child {
+        grid-column: span 3 / -1;
+    }
+
+}
+
+
+/* === COLOR IDs === */
+#title-item {
+    background-color: var(--color-black);
+}
+
+#white-item {
+    background-color: var(--color-white);
+}
+
+#black-item {
+    background-color: var(--color-black);
+}
+
+#teal-item {
+    background-color: var(--color-teal);
+}
+
+#purple-item {
+    background-color: var(--color-purple);
+}
+
+#blue-item {
+    background-color: var(--color-blue);
+}
+
+#navy-item {
+    background-color: var(--color-navy);
+}
+
+#lime-item {
+    background-color: var(--color-lime);
+}
+
+#yellow-item {
+    background-color: var(--color-yellow);
+}
+
+#olive-item {
+    background-color: var(--color-olive);
+}
+
+#red-item {
+    background-color: var(--color-red);
+}
+
+#maroon-item {
+    background-color: var(--color-maroon);
+}
+
+#gray-item {
+    background-color: var(--color-gray);
+}
+
+#olivedrab-item {
+    background-color: var(--color-olivedrab);
+}
+
+#deepskyblue-item {
+    background-color: var(--color-deep-sky-blue);
+}
+
+#fuchsia-item {
+    background-color: var(--color-fuchsia);
+}
+
+#green-item {
+    background-color: var(--color-green);
+}
+

@@ -14,7 +14,7 @@
 4. ✅ Añadir contenido (textos correctos).
 5. ✅ Crear CSS classes de contenedores y de elementos que se repiten.
 6. ✅ Trabajar con Grid en `layout.css` para hacer `Mobile View` correcto. 
-7. Añadir los colores y estilos de contenedores.
+7. ✅ Añadir los colores y estilos de contenedores.
 8. Añadir fuentes de `Google Fonts` y trabajar con tipografía.
 9. Hacer `Tablet` y `Desktop` diseño responsive.
 10. Comprobar y corregir todo el sitio web.
