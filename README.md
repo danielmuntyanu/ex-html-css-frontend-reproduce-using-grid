@@ -3,6 +3,7 @@
 ### Enlace a sitio web::
 [GitHub Pages](https://danielmuntyanu.github.io/ex-html-css-frontend-reproduce-using-grid/)
 
+<br> 
 
 ## Etapas:
 1. ✅ Escribir un plan de proyecto.
@@ -19,7 +20,7 @@
 9. ✅ Hacer `Tablet` y `Desktop` diseño responsive.
 10. ✅ Comprobar y corregir todo el sitio web.
 11. ✅ `Merge` la rama `dev` con `main`.
-12. Despliegue a `GitHub Pages`.
+12. ✅ Despliegue a `GitHub Pages`.
 
 
 
